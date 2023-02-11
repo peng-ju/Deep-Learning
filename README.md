@@ -4,7 +4,7 @@ This repository contains the course projects from [ECE601 Deep Learning](https:/
 These projects guide me to have a deep understanding of the implementation of deep learning.
 
 ### DataLoader_ImageAugmentation
-> Create a customized Dataloader class with torch.utils.data.Dataset. Apply normalization and image augmentation. Pratice with Torchvision.
+> Create a customized Dataloader class with torch.utils.data.Dataset. Apply normalization and image augmentation. Practice with Torchvision.
 
 
 ### OOP_Object_Oriented_Programming
