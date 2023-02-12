@@ -3,12 +3,11 @@ This repository contains the course projects from [ECE601 Deep Learning](https:/
 
 These projects guide me to have a deep understanding of the implementation of deep learning.
 
-### DataLoader_ImageAugmentation
+### OOP_Object_Oriented_Programming [[code]](https://github.com/peng-ju/Deep-Learning/blob/main/OOP_Object_Oriented_Programming.ipynb)
+> A practice program for Objective Oriented Programming. Created a calllable class for Fibonacci sequence and Prime number.
+
+### DataLoader_ImageAugmentation [[code]](https://github.com/peng-ju/Deep-Learning/blob/main/DataLoader_ImageAugmentation.ipynb)
 > Created a customized Dataloader class with torch.utils.data.Dataset. Apply normalization and image augmentation. Practice with Torchvision.
 
-
-### OOP_Object_Oriented_Programming
-> Practice program for Objective Oriented Programming. Created a calllable class for Fibonacci sequence and Prime number.
- 
-### Simple_Neural_Network
+### Simple_Neural_Network [[code]](https://github.com/peng-ju/Deep-Learning/blob/main/Simple_Neural_Network.ipynb)
 > Constructed a two-layer neural network with Adam, SGD+ optimizer. Compared the result with Torch.nn.
