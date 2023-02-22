@@ -13,6 +13,6 @@ These projects implements the key components of the deep learning.
 > Constructed a two-layer neural network with Adam, SGD+ optimizer. Compared the result with Torch.nn.
 
 ### Image classification with a two-layer CNN for MS-COCO dataset[[code]](https://github.com/peng-ju/Deep-Learning/blob/main/Image_classification_for_MS-COCO_Dataset.ipynb)
-> Loaded 5 categories of 10000 images from the MS-COCO dataset (2014 train images). 
-> Created a dataloader with image augmentation. 
-> Built a classifier with a simple two-layer CNN and achieved a classification accuracy of 0.65. (Reasonable result for 64*64 images and simple CNN) 
+> Loaded 5 categories of 10000 images from the MS-COCO dataset (2014 train images).   
+> Created a dataloader with image augmentation.   
+> Built a classifier with a simple two-layer CNN and achieved a classification accuracy of 0.65. (Reasonable result for 64x64 images and simple CNN)   
