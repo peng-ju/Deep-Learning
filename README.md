@@ -16,3 +16,9 @@ These projects implements the key components of the deep learning.
 > - Loaded 5 categories of 10000 images from the [COCO dataset](https://cocodataset.org/#download).   
 > - Created a dataloader with image augmentation.   
 > - Built a classifier with a simple two-layer CNN and achieved a classification accuracy of 0.65. (Reasonable result for 64x64 images and simple CNN)   
+
+### Predict label and bbox with ResBlock [[code]](https://github.com/peng-ju/Deep-Learning/blob/main/ResBlock_Label_and_Bbox.ipynb)
+> - Loaded 3 categories of 6k images from the [COCO dataset](https://cocodataset.org/#download). The data also include the bboxes of the objects in images.   
+> - Created a dataloader with image augmentation.
+> - Build a deep (58 layer) NN with convolutional layer, BatchNormalizaion layer, Downsampling layer, Resblock, classification head to predict the label and regression head to predic the bbox.
+> - Classification accuracy is 0.86, Mean IoU value is 0.55. 
