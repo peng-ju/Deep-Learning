@@ -22,3 +22,8 @@ These projects implements the key components of the deep learning.
 > - Created a dataloader with image augmentation.
 > - Build a deep (58 layer) NN with convolutional layer, BatchNormalizaion layer, Downsampling layer, Resblock, classification head to predict the label and regression head to predic the bbox.
 > - Classification accuracy is 0.86, Mean IoU value is 0.55. 
+
+### YOLO: multi-object detection
+
+
+### WGAN
