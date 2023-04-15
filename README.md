@@ -26,4 +26,7 @@ These projects implements the key components of the deep learning.
 ### YOLO: multi-object detection
 
 
-### WGAN
+### GAN (Generative Adverserial Network)
+
+
+### Setiment Analysis with GRU (Gated Recurrent Unit)
