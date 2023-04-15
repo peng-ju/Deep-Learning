@@ -26,7 +26,7 @@ These projects implements the key components of the deep learning.
 ### YOLO: multi-object detection
 
 
-### GAN (Generative Adverserial Network)
+### GAN (Generative Adverserial Network) [[code]](https://github.com/peng-ju/Deep-Learning/blob/main/GAN.ipynb)
 > - Loaded 8k pizza images with the size of 64x64.
 > - Built GAN based on the generator and descriminator. The Generator is based on Transpose convolutions, while the descriminator is based on BCELoss of a CNN classifier.
 > - Evaluated the generated images with FID (Frechet Inception Distance), and get a FID score of 173 between 1000 'fake' and 'real' pizza images. 
