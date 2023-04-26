@@ -32,7 +32,7 @@ These projects implements the key components of the deep learning.
 > - Evaluated the generated images with FID (Frechet Inception Distance), and get a FID score of 173 between 1000 'fake' and 'real' pizza images. 
 
 ### Setiment Analysis with GRU (Gated Recurrent Unit) [[code]](https://github.com/peng-ju/Deep-Learning/blob/main/Setiment_Analysis.ipynb)
-> - Loaded amazon review dataset with Pytorch. The data contains customer reviews labelled with positive and negative.
+> - Loaded amazon review dataset with Pytorch. The data contains customer reviews labelled as 'positive' and 'negative'.
 > - Used pretrained work2vect('word2vec-google-news-300') to represent each word in the sentence.  
 > - Built a binary classifier based on the recurrent neural network(RNN) with Gated Recurrent Unit(GRU). The achieved accuracy is 0.82.  
 
