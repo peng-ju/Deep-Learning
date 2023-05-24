@@ -36,3 +36,4 @@ These projects implements the key components of the deep learning.
 > - Used pretrained work2vect('word2vec-google-news-300') to represent each word in the sentence.  
 > - Built a binary classifier based on the recurrent neural network(RNN) with Gated Recurrent Unit(GRU). The achieved accuracy is 0.83.  
 
+### ViT
