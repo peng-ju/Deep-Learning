@@ -1,0 +1,91 @@
+{
+  "images": [
+    {
+      "width": 1000,
+      "height": 1500,
+      "id": 0,
+      "file_name": "images\\47478285-cat.jpg"
+    },
+    {
+      "width": 800,
+      "height": 464,
+      "id": 1,
+      "file_name": "images\\4eb36feb-citybus.jpg"
+    },
+    {
+      "width": 1500,
+      "height": 1000,
+      "id": 2,
+      "file_name": "images\\b880ea14-pizza.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "bus"
+    },
+    {
+      "id": 1,
+      "name": "cat"
+    },
+    {
+      "id": 2,
+      "name": "pizza"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 0,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        110.76923076923076,
+        18.461538461538463,
+        766.153846153846,
+        1449.2307692307693
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 1110333.7278106506
+    },
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        95.65538461538459,
+        209.8707692307692,
+        612.4799999999999,
+        211.29846153846157
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 129416.08172307692
+    },
+    {
+      "id": 2,
+      "image_id": 2,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        233.84615384615387,
+        15.384615384615385,
+        916.9230769230769,
+        929.2307692307694
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 852033.1360946747
+    }
+  ],
+  "info": {
+    "year": 2023,
+    "version": "1.0",
+    "description": "",
+    "contributor": "Label Studio",
+    "url": "",
+    "date_created": "2023-10-08 23:47:52.421903"
+  }
+}
