@@ -38,5 +38,6 @@ These projects implements the key ideals of the deep learning.
 
 ### ViT
 
-### Image Annotation with LabelStudio [[code]](https://github.com/peng-ju/Deep-Learning/blob/main/ImageLabel_LabelStudio/bbox_label_coco_format/bbox_label.ipynb)
->- Obtain class and bbox of the image with LabelStudio. 
+### Image Annotation with LabelStudio 
+>- Obtain class and bbox of the image with LabelStudio. [[code]](https://github.com/peng-ju/Deep-Learning/blob/main/ImageLabel_LabelStudio/bbox_label_coco_format/bbox_label.ipynb)
+>- Obtain OCR labels with LabelStudio. [[code]](https://github.com/peng-ju/Deep-Learning/blob/main/ImageLabel_LabelStudio/OCR_label/ocr_label.ipynb)
