@@ -37,3 +37,6 @@ These projects implements the key ideals of the deep learning.
 > - Built a binary classifier based on the recurrent neural network(RNN) with Gated Recurrent Unit(GRU). The achieved accuracy is 0.83.  
 
 ### ViT
+
+### Image Annotation with LabelStudio [[code]](https://github.com/peng-ju/Deep-Learning/tree/main/ImageLabel_LabelStudio)
+>- Obtain class and bbox of the image with LabelStudio. 
